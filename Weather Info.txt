@@ -1,0 +1,36 @@
+City : kolkata
+Temperature : 30.970000000000027
+Weather Desc : overcast clouds
+Humidity : 94
+Wind Speed : 4.63
+
+City : bangalore
+Temperature : 29.30000000000001
+Weather Desc : scattered clouds
+Humidity : 48
+Wind Speed : 3.09
+
+City : mumbai
+Temperature : 31.99000000000001
+Weather Desc : smoke
+Humidity : 70
+Wind Speed : 5.14
+
+City : kannur
+Temperature : 28.52000000000004
+Weather Desc : overcast clouds
+Humidity : 76
+Wind Speed : 4.99
+
+City : kozhikode
+Temperature : 30.650000000000034
+Weather Desc : overcast clouds
+Humidity : 74
+Wind Speed : 4.65
+
+City : london
+Temperature : 17.5
+Weather Desc : scattered clouds
+Humidity : 51
+Wind Speed : 0.45
+
